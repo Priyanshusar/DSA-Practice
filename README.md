@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priyanshusar/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyanshusar/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sorting
 |  |
