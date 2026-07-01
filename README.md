@@ -44,6 +44,11 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Priyanshusar/DSA-Practice/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshusar/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Priyanshusar/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Priyanshusar/DSA-Practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
