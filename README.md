@@ -53,8 +53,13 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Priyanshusar/DSA-Practice/tree/master/0069-sqrtx) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Priyanshusar/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyanshusar/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Priyanshusar/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
