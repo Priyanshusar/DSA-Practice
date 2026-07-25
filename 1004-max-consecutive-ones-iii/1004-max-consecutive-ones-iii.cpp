@@ -7,17 +7,17 @@ public:
          while(right < n)
          {
             if(nums[right] == 0) zeros++;
-            while(zeros > k)
+            if(zeros > k)
             {
-                if(nums[left] == 0)
+                 if(nums[left] == 0)
                 {
                     zeros--;    
                 }
-                left++;
-            }
+            left++;
+            }  
             if(zeros <= k) maxLen = max(maxLen,right-left+1);
-            right++;
-         }
+            right++;      
+        }
         return maxLen;
     }
 };
