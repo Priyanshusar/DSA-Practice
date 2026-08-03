@@ -21,6 +21,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshusar/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshusar/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyanshusar/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Priyanshusar/DSA-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Priyanshusar/DSA-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyanshusar/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
@@ -35,6 +36,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshusar/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Priyanshusar/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyanshusar/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Priyanshusar/DSA-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priyanshusar/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyanshusar/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sorting
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Priyanshusar/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Priyanshusar/DSA-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
