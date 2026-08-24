@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Priyanshusar/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshusar/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0904-fruit-into-baskets](https://github.com/Priyanshusar/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshusar/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -78,5 +79,10 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Priyanshusar/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Priyanshusar/DSA-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Priyanshusar/DSA-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
