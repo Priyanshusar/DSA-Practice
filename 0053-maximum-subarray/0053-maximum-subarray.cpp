@@ -5,7 +5,10 @@ public:
         for(int i=0;i<nums.size();i++)
         {
             currentsum+=nums[i];
-            maxsum=max(maxsum,currentsum);
+            if(currentsum > maxsum)
+            {
+                maxsum = currentsum;
+            }
             if(currentsum<0)
             {
                 currentsum=0;
